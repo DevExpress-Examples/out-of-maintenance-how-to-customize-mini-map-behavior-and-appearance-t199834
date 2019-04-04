@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/MiniMapProperties/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/MiniMapProperties/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/MiniMapProperties/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MiniMapProperties/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MiniMapProperties/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MiniMapProperties/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to customize mini map behavior and appearance
